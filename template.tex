@@ -148,49 +148,49 @@ $if(strikeout)$
 $endif$
 $if(indent)$
 $else$
-\IfFileExists{parskip.sty}{%
-\usepackage{parskip}
-}{% else
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-}
+    \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+    }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}
+    }
 $endif$
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\providecommand{\tightlist}{
+\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 $if(numbersections)$
-\setcounter{secnumdepth}{$if(secnumdepth)$$secnumdepth$$else$5$endif$}
+    \setcounter{secnumdepth}{$if(secnumdepth)$$secnumdepth$$else$5$endif$}
 $else$
-\setcounter{secnumdepth}{0}
+    \setcounter{secnumdepth}{0}
 $endif$
 $if(subparagraph)$
 $else$
-% Redefines (sub)paragraphs to behave more like sections
-\ifx\paragraph\undefined\else
-\let\oldparagraph\paragraph
-\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
-\fi
-\ifx\subparagraph\undefined\else
-\let\oldsubparagraph\subparagraph
-\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
+    % Redefines (sub)paragraphs to behave more like sections
+    \ifx\paragraph\undefined\else
+    \let\oldparagraph\paragraph
+    \renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+    \fi
+    \ifx\subparagraph\undefined\else
+    \let\oldsubparagraph\subparagraph
+    \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+    \fi
 $endif$
 $if(dir)$
-\ifxetex
-  % load bidi as late as possible as it modifies e.g. graphicx
-  $if(latex-dir-rtl)$
-  \usepackage[RTLdocument]{bidi}
-  $else$
-  \usepackage{bidi}
-  $endif$
-\fi
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \TeXXeTstate=1
-  \newcommand{\RL}[1]{\beginR #1\endR}
-  \newcommand{\LR}[1]{\beginL #1\endL}
-  \newenvironment{RTL}{\beginR}{\endR}
-  \newenvironment{LTR}{\beginL}{\endL}
-\fi
+    \ifxetex
+      % load bidi as late as possible as it modifies e.g. graphicx
+      $if(latex-dir-rtl)$
+        \usepackage[RTLdocument]{bidi}
+      $else$
+        \usepackage{bidi}
+      $endif$
+    \fi
+    \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+      \TeXXeTstate=1
+      \newcommand{\RL}[1]{\beginR #1\endR}
+      \newcommand{\LR}[1]{\beginL #1\endL}
+      \newenvironment{RTL}{\beginR}{\endR}
+      \newenvironment{LTR}{\beginL}{\endL}
+    \fi
 $endif$
 
 % set default figure placement to htbp
@@ -203,11 +203,11 @@ $header-includes$
 $endfor$
 
 $if(title)$
-\title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
+    \title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
 $endif$
 $if(subtitle)$
-\providecommand{\subtitle}[1]{}
-\subtitle{$subtitle$}
+    \providecommand{\subtitle}[1]{}
+    \subtitle{$subtitle$}
 $endif$
 $if(author)$
 %\author{
@@ -240,55 +240,55 @@ $endif$
 \date{$date$}
 
 \begin{document}
+
 $if(title)$
-\maketitle
+    \maketitle
 $endif$
 $if(abstract)$
-\begin{abstract}
-	$abstract$
-\end{abstract}
+    \begin{abstract}
+    	$abstract$
+    \end{abstract}
 $endif$
 
 $for(include-before)$
-$include-before$
-
+    $include-before$
 $endfor$
 $if(toc)$
-{
-	$if(colorlinks)$
-	\hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$black$endif$}
-	$endif$
-	\setcounter{tocdepth}{$toc-depth$}
-	\tableofcontents
-}
+    {
+    	$if(colorlinks)$
+    	\hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$black$endif$}
+    	$endif$
+    	\setcounter{tocdepth}{$toc-depth$}
+    	\tableofcontents
+    }
 $endif$
 $if(lot)$
-\listoftables
+    \listoftables
 $endif$
 $if(lof)$
-\listoffigures
+    \listoffigures
 $endif$
 $body$
 
 $if(natbib)$
-$if(bibliography)$
-$if(biblio-title)$
-$if(book-class)$
-\renewcommand\bibname{$biblio-title$}
-$else$
-\renewcommand\refname{$biblio-title$}
+    $if(bibliography)$
+        $if(biblio-title)$
+            $if(book-class)$
+            \renewcommand\bibname{$biblio-title$}
+            $else$
+            \renewcommand\refname{$biblio-title$}
+            $endif$
+        $endif$
+        \bibliography{$for(bibliography)$$bibliography$$sep$,$endfor$}
+    $endif$
 $endif$
-$endif$
-\bibliography{$for(bibliography)$$bibliography$$sep$,$endfor$}
 
-$endif$
-$endif$
 $if(biblatex)$
-\printbibliography$if(biblio-title)$[title=$biblio-title$]$endif$
-
+    \printbibliography$if(biblio-title)$[title=$biblio-title$]$endif$
 $endif$
-$for(include-after)$
-$include-after$
 
+$for(include-after)$
+    $include-after$
 $endfor$
+
 \end{document}
