@@ -20,7 +20,7 @@
   <locale xml:lang="de">
     <terms>
       <term name="et-al">et al.</term>
-      <term name="editor" form="short">Hg.</term>
+      <term name="editor" form="short"> (Hrsg.)</term>
       <term name="online">Online unter</term>
     </terms>
   </locale>
