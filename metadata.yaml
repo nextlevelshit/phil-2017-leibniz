@@ -12,15 +12,5 @@ author:
       email: st104148@stud.uni-stuttgart.de
 
 global:
-    -copyrtyr: 2017
-
-abstract: |
-    Gottfried Wilhelm Leibniz galt als Universalgelehrter des 17. Jahrhunderts.
-    Seine Überlegungen zur Willensfreiheit des Menschen teilt in hauptäschlich
-    zwei Werken auf, nämlich _Essai de Théodicée_ und _Nouveaux Essais sur
-    l'entendenment humain_. Nach seiner Argumentation kann dem Menschen eine
-    Willensfreiheit zugesprochen werden. Seine Fragen zur Freiheit teilt er in
-    drei Teilprobleme auf, die er einzeln bearbeitet: Wie kann der Mensch
-    frei sein, (1) wenn Gott alles vorherbestimmt? (2) wenn alles in der Welt
-    kausal abläuft? (3) wenn der Mensch animalische Instinkte hat?
+    - copyrtyr: 2017
 ---
