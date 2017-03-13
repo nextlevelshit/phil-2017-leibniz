@@ -1051,7 +1051,7 @@
         \addpenalty\@secpenalty
         \addvspace\@tempskipa
     \fi
-\parskip=0pt % GM July 2000 (non numbered) section heads
+\parskip=4pt % GM July 2000 (non numbered) section heads
     \@ifstar
         {\@ssect{#3}{#4}{#5}{#6}}
         {\@dblarg{\@sect{#1}{#2}{#3}{#4}{#5}{#6}}}%
