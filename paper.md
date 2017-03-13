@@ -8,6 +8,8 @@ drei Teilprobleme auf, die er einzeln bearbeitet: Wie kann der Mensch
 frei sein, (1) wenn Gott alles vorherbestimmt? (2) wenn alles in der Welt
 kausal abläuft? (3) wenn der Mensch animalische Instinkte hat? (Vgl. @poser_leibniz_2007, S. 157)
 
+Im Folgenden werden zum Einen die aktuellen Positionen zur Debatte der Willensfreiheit vorgestellt, zum Anderen Leibniz' biographischer Hintergrund beleuchtet und letztlich seine Lösung des sog. Theodizeeproblems ausführlich erläutert. Leibniz beschäftigte sich ausgiebig mit der Beantwortung der Frage:  _Wie kann es Böses auf der Welt geben, wenn Gott allmächtig und gütig ist? Bzw. wieso schreitet er hier nicht ein und verhindert das Übel?_
+
 ## Positionen zur Debatte der Willensfreiheit
 
 Willensfreiheit muss zu aller erst von der Handlungsfreiheit unterschieden werden. Es wird von Handlungsfreiheit gesprochen, wenn ein Akteur frei darin ist eine bestimmte selbstgewählte Handlung zu vollziehen. Er ist frei und ungehindert zu handeln. (Vgl. @jordan_lexikon_2011, S. 305) Von Willensfreiheit wird gesprochen, wenn der Akteur frei darin ist zu wählen und zu entscheiden; es ist nicht damit gemeint, er sei frei zu wollen. Es stellt sich somit die Frage, ob er in seinem Wählen frei von Zwängen ist. (Vgl. @keil_willensfreiheit_2013, S. 2f.) Ausgehend von der Frage ob sich Willensfreiheit mit dem Determinismus vereinbaren lässt, folgen drei Theorien, die die philosophische Diskussion dominieren (Vgl. @keil_willensfreiheit_2013, S. 7):
