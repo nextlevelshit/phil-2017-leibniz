@@ -1,4 +1,5 @@
-## Einführung
+## Einleitung
+
 Gottfried Wilhelm Leibniz galt als Universalgelehrter des 17. Jahrhunderts.
 Seine Überlegungen zur Willensfreiheit des Menschen teilt in hauptäschlich
 zwei Werken auf, nämlich _Essai de Théodicée_ und _Nouveaux Essais sur
@@ -36,6 +37,21 @@ Aus heutiger Sicht ist Leibniz' Auffassung zur Willensfreiheit eine kompatibilis
 ## Willensfreiheit nach Leibniz
 
 Leibniz kommt mit seinen Meditationen zu dem Schluss, dem Menschen einen freien Willen zuzusprechen. Hierbei lässt er den göttlichen Willen und die theologische Determiniertheit der Welt in keinster Weise aus. Ihm gelingt es das Göttliche mit der Vernunft zu vereinen, jedoch nicht ohne die Zurhilfenahme bestimmter metaphysischer Annahmen. In seiner Anschauung verfügt Gott, der Erschaffer unserer Welt, zum einen über das Vermögen zwischen verschiedenen möglichen Welten zu wählen, die er im sog. Reich der Ideen sich vorstellt. Zum anderen wählt er die beste aller möglichen Welten. Hierbei berücksichtigt er bereits den Handlungsspielraum und den freien Willen der Menschen, die im Kontrast zu Tieren eine Vernunft haben, die sie einsetzen können, freie Entscheidungen zu treffen.
+
+Willensfreiheit schließt somit die Einsicht, sprich die vernünftige Entscheidung, Kontingenz (Wahlmöglichkeit, sprich Abwesenheit von logischer wie physischer Notwendigkeit), Spontanität
+
+### Probleme der Willensfreiheit
+
+Mit dem Zusprechen eines freien Willens, galt es zur Leibniz' Zeit drei Probleme zu lösen, welche er innerhalb verschiedener Werke ^[Zumindest insoweit es uns aus heutiger Sicht zu begutachten und bewerten erlaubt ist.] aufteilte. Die beiden Hauptwerke waren hierbei _Die Theodizee von der Güte Gottes, der Freiheit des Menschen und dem Ursprung des Übels_ und _Neue Abhandlungen über den menschlichen Verstand_. Und die zu lösenden wurden bereits in der Einleitung vorgestellt. Die beiden ersten Probleme löste er innerhalb der Theodizee und das Problem des animalischen Instinktes in _Neue Abhandlungen über den menschlichen Verstand_.
+
+### Kontingenz und Notwendigkeit
+
+Leibniz teilt den Begriff der Notwendigkeit in zwei unterschiedlich starke Kategorien auf:
+
+ - __Logische Notwendigkeit__ bedeutet ...
+ - __Physische Notwendigkeit__ bedeutet
+
+###
 
 ## Ehrenwörtliche Erklärung
 
