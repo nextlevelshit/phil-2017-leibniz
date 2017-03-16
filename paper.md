@@ -33,6 +33,10 @@ _Willensfreiheit_ richtet sich nach Leibniz eindeutig auf den Gegenstand des Wol
 
 Aus heutiger Sicht ist Leibniz' Auffassung zur Willensfreiheit eine kompatibilistische. Demnach ist der Wille frei, aber determiniert. Denn es geschieht in der Welt nichts ohne zureichenden Grund. Daraus folgt, dass es auch keine grundlose Wahl gibt. Die wahre Freiheit liegt letztlich darin, vernünftigen Gründen zu folgen. (Vgl. @keil_willensfreiheit_2009, S. 137)
 
+## Willensfreiheit nach Leibniz
+
+Leibniz kommt mit seinen Meditationen zu dem Schluss, dem Menschen einen freien Willen zuzusprechen. Hierbei lässt er den göttlichen Willen und die theologische Determiniertheit der Welt in keinster Weise aus. Ihm gelingt es das Göttliche mit der Vernunft zu vereinen, jedoch nicht ohne die Zurhilfenahme bestimmter metaphysischer Annahmen. In seiner Anschauung verfügt Gott, der Erschaffer unserer Welt, zum einen über das Vermögen zwischen verschiedenen möglichen Welten zu wählen, die er im sog. Reich der Ideen sich vorstellt. Zum anderen wählt er die beste aller möglichen Welten. Hierbei berücksichtigt er bereits den Handlungsspielraum und den freien Willen der Menschen, die im Kontrast zu Tieren eine Vernunft haben, die sie einsetzen können, freie Entscheidungen zu treffen.
+
 ## Ehrenwörtliche Erklärung
 
 Hiermit erkläre ich, dass ich die vorliegende Arbeit selbstständig verfasst und keine anderen als die von mir angegebenen Hilfsmittel benutzt habe. Die Stellen der Arbeit, die anderen Werken dem Wortlaut oder dem Sinne nach entnommen sind, wurden in jedem Fall unter Angabe der Quellen (einschließlich des World Wide Web (oder Teilen desselben) und anderer elektronischer Text- und Datensammlungen) kenntlich gemacht. Weder ganz noch in Teilen wurde die Arbeit bereits als Prüfungsleistung eingereicht. Mir ist bewusst, dass jedes zuwiderhandeln als Täuschungsversuch zu gelten hat, der die Anerkennung der Hausarbeit als Leitungsnachweis ausschließt und weitere angemessene Sanktionen zur Folge haben kann.
