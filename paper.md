@@ -1,13 +1,6 @@
 ## Einleitung
 
-Gottfried Wilhelm Leibniz galt als Universalgelehrter des 17. Jahrhunderts.
-Seine Überlegungen zur Willensfreiheit des Menschen teilt in hauptäschlich
-zwei Werken auf, nämlich _Essai de Théodicée_ und _Nouveaux Essais sur
-l'entendenment humain_. Nach seiner Argumentation kann dem Menschen eine
-Willensfreiheit zugesprochen werden. Seine Fragen zur Freiheit teilt er in
-drei Teilprobleme auf, die er einzeln bearbeitet: Wie kann der Mensch
-frei sein, (1) wenn Gott alles vorherbestimmt? (2) wenn alles in der Welt
-kausal abläuft? (3) wenn der Mensch animalische Instinkte hat? (Vgl. @poser_leibniz_2007, S. 157)
+Gottfried Wilhelm Leibniz galt als Universalgelehrter des 17. Jahrhunderts. Seine Überlegungen zur Willensfreiheit des Menschen teilt in hauptäschlich zwei Werken auf, nämlich _Essai de Théodicée_^[dt. _Die Theodizee von der Güte Gottes, der Freiheit des Menschen und dem Ursprung des Übels_] und _Nouveaux Essais sur l'entendenment humain_^[dt. _Neue Abhandlungen über den menschlichen Verstand_]. Nach seiner Argumentation kann dem Menschen eineWillensfreiheit zugesprochen werden. Seine Fragen zur Freiheit teilt er in drei Teilprobleme auf, die er einzeln bearbeitet: Wie kann der Mensch frei sein, (1) wenn Gott alles vorherbestimmt? (2) wenn alles in der Welt kausal abläuft? (3) wenn der Mensch animalische Instinkte hat? (Vgl. @poser_leibniz_2007, S. 157)
 
 Im Folgenden werden zum Einen die aktuellen Positionen zur Debatte der Willensfreiheit vorgestellt, zum Anderen Leibniz' biographischer Hintergrund beleuchtet und letztlich seine Lösung des sog. Theodizeeproblems ausführlich erläutert. Leibniz beschäftigte sich ausgiebig mit der Beantwortung der Frage:  _Wie kann es Böses auf der Welt geben, wenn Gott allmächtig und gütig ist? Bzw. wieso schreitet er hier nicht ein und verhindert das Übel?_
 
