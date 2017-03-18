@@ -50,9 +50,11 @@ Leibniz teilt den Begriff der Notwendigkeit in zwei unterschiedlich starke Kateg
 
 ### Metaphysische Grundannahmen zur Güte Gottes
 
-Leibniz war es wichtig die Güte Gottes als eine logische Notwendigkeit darzustellen, aber Gott ebenfalls die Möglichkeit und Freiheit einzuräumen die beste aller möglichen Welten zu wählen, welche in sich konsistent aubläuft. Naturgesetze könnten zwar anders sein, was aber nicht heißt, dass sie sich verändern können. Eine gewählte Welt hat eigene Naturgesetze, die an und für sich konsistent und nicht veränderbar sind.
+Leibniz war es wichtig die Güte Gottes als eine logische Notwendigkeit darzustellen, aber Gott ebenfalls die Möglichkeit und Freiheit einzuräumen die beste aller möglichen Welten zu wählen, welche in sich konsistent aubläuft. Naturgesetze könnten zwar anders sein, was aber nicht heißt, dass sie sich verändern können. Eine gewählte Welt hat eigene Naturgesetze, die an und für sich^[Gemeint ist, dass zum einen Gott diese Naturgesetze bestimmt hat und durchgängig, sprich lückenlos, gestaltet hat. Diese sind für uns Menschen ebenfalls spürbar und durchgängig. Leibniz expliziert dieses zwar nicht, jedoch sind die Gründe für Gottes Wahl teilweise nachvollziehbar, aber wir als vernünftige von Gott geschaffene Wesen sind in dieser Hinsicht Gott sehr ähnlich. Wir können vernünftig denken und haben ein Bewusstsein. Wir können antizipieren und uns sind in der Lage, die Dinge auch anders zu denken. Dennoch werden wir als Menschen einer vollständigen Erklärung der Gründe wie Absichten uns selber schuldig. Gott bleibt uns übergestellt, nämlich als Erschaffer unserer Welt.] konsistent und nicht veränderbar sind.
 
-
+Leibniz schlussfolgert aus der Allwissenheit und Weisheit Gottes, dass dieser nichts Unbegründetes tut. Nichts geschieht grundlos, was nicht gleichbedeutend mit innerer Notwendigkeit ist. Es werden zwei Arten unterschieden:
+- __causa__ steht für
+- __ratio__ steht für
 
 ## Ehrenwörtliche Erklärung
 
