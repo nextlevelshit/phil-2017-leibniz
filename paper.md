@@ -42,7 +42,7 @@ Mit dem Zusprechen eines freien Willens, galt es zur Leibniz' Zeit drei Probleme
 Leibniz teilt den Begriff der Notwendigkeit in zwei unterschiedlich starke Kategorien auf:
 
  - __Logische Notwendigkeit__ besagt "[e]ine Aussage ist falsch, wenn sie einen Widerspruch enthält; dagegen ist die Negation einer falschen Aussage wahr. Deshalb ist jede Aussage wahr, deren Negation einen Widerspruch enthält." (@poser_leibniz_2007, S. 160) Die Rede ist dann von _Vernunftwahrheiten_. Hierzu gehören in erster Linie Aussagen aus der Mathematik, Logik und Geometrie. Hierbei nimmt sich Leibniz metaphysische Grundannahmen^[s. _Metaphysische Grundannahmen zur Güte Gottes_] zur Hilfe, nämlich dass Gott vernünftig und gerade nicht willkürlich Prinzipien festlegt. (Vgl. @poser_leibniz_2007, S. 160)
- - __Hypothetische Notwendigkeit__ bezieht sich demnach auf _Tatsachenwahrheiten_. Tatsachen wie Naturgesetze sind anders denkbar und demnach kontingent und könnten anders sein. Ihre Negation führt zu keinem Widerspruch. (Vgl. @poser_leibniz_2007, S. 161)
+ - __Hypothetische Notwendigkeit__ bezieht sich demnach auf _Tatsachenwahrheiten_. Tatsachen wie Naturgesetze sind anders vorstellbar und demnach kontingent und könnten anders sein. Ihre Negation führt zu keinem Widerspruch. (Vgl. @poser_leibniz_2007, S. 161)
 
  Das impliziert, dass alles, was nicht zu einem logisch Widerspruch führt, als kontingent erachtet wird. Leibniz nennt das dahinterstehende Prinzip das _Prinzip des zureichenden Grundes_. Hierauf wird im kommenden Abschnitt genauer eingegangen.
 
@@ -53,8 +53,8 @@ Leibniz teilt den Begriff der Notwendigkeit in zwei unterschiedlich starke Kateg
 Leibniz war es wichtig die Güte Gottes als eine logische Notwendigkeit darzustellen, aber Gott ebenfalls die Möglichkeit und Freiheit einzuräumen die beste aller möglichen Welten zu wählen, welche in sich konsistent aubläuft. Naturgesetze könnten zwar anders sein, was aber nicht heißt, dass sie sich verändern können. Eine gewählte Welt hat eigene Naturgesetze, die an und für sich^[Gemeint ist, dass zum einen Gott diese Naturgesetze bestimmt hat. Diese sind durchgängig und lückenlos. Ebenfalls sind diese für uns Menschen spürbar und durchgängig. Jedoch sind die Gründe für Gottes Wahl für uns Menschen nur teilweise nachvollziehbar, aber wir als vernünftige von Gott geschaffene Wesen sind in dieser Hinsicht Gott sehr ähnlich. Wir können vernünftig denken und haben ein Bewusstsein. Wir können die Zukunft antizipieren und Dinge auch in einem anderen Kontext und einem anderen Gegebensein denken. Dennoch bleiben wir als Menschen einer vollständigen Erklärung der Gründe wie Absichten uns selber schuldig. Gott bleibt uns übergestellt, nämlich als Erschaffer unserer Welt.] konsistent und nicht veränderbar sind.
 
 Leibniz schlussfolgert aus der Allwissenheit und Weisheit Gottes, dass dieser nichts Unbegründetes tut. Nichts geschieht grundlos, was nicht gleichbedeutend mit innerer Notwendigkeit ist. Es werden zwei Arten unterschieden:
-- __causa__ steht für
-- __ratio__ steht für
+- __causa__ "bezeichnet den vernünftigen Grund für Gottes Wahl und stellt deshalb ein finales Element dar". (@poser_leibniz_2007, S. 161)
+- __ratio__ "beinhaltet den neuzeitlichen Ursache-Wirkungs-Zusammenhang und garantiert, dass in der Welt alles kausalgesetzlich abläuft." (@poser_leibniz_2007, S. 161)
 
 ## Ehrenwörtliche Erklärung
 
