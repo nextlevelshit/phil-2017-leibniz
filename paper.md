@@ -42,7 +42,7 @@ Mit dem Zusprechen eines freien Willens, galt es zur Leibniz' Zeit drei Probleme
 Leibniz teilt den Begriff der Notwendigkeit in zwei unterschiedlich starke Kategorien auf:
 
  - __Logische Notwendigkeit__ besagt "[e]ine Aussage ist falsch, wenn sie einen Widerspruch enthält; dagegen ist die Negation einer falschen Aussage wahr. Deshalb ist jede Aussage wahr, deren Negation einen Widerspruch enthält." (@poser_leibniz_2007, S. 160) Die Rede ist dann von _Vernunftwahrheiten_. Hierzu gehören in erster Linie Aussagen aus der Mathematik, Logik und Geometrie. Hierbei nimmt sich Leibniz' die metaphysische Annahme zur Hilfe, dass Gott vernünftig und nicht willkürlich Prinzipien festlegt. (Vgl. @poser_leibniz_2007, S. 160)
- - __Hypothetische Notwendigkeit__ sind demnach _Tatsachenwahrheiten_. Tatsachen wie Naturgesetze sind anders denkbar und demnach kontingent und könnten anders sein. Ihre Negation führt zu keinem Widerspruch. (Vgl. @poser_leibniz_2007, S. 161)
+ - __Hypothetische Notwendigkeit__ bezieht sich demnach auf _Tatsachenwahrheiten_. Tatsachen wie Naturgesetze sind anders denkbar und demnach kontingent und könnten anders sein. Ihre Negation führt zu keinem Widerspruch. (Vgl. @poser_leibniz_2007, S. 161)
 
 ###
 
