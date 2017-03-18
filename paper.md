@@ -6,11 +6,21 @@ Im Folgenden werden zum Einen die aktuellen Positionen zur Debatte der Willensfr
 
 ## Positionen zur Debatte der Willensfreiheit
 
-Willensfreiheit muss zu aller erst von der Handlungsfreiheit unterschieden werden. Es wird von Handlungsfreiheit gesprochen, wenn ein Akteur frei darin ist eine bestimmte selbstgewählte Handlung zu vollziehen. Er ist frei und ungehindert zu handeln. (Vgl. @jordan_lexikon_2011, S. 305) Von Willensfreiheit wird gesprochen, wenn der Akteur frei darin ist zu wählen und zu entscheiden; es ist nicht damit gemeint, er sei frei zu wollen. Es stellt sich somit die Frage, ob er in seinem Wählen frei von Zwängen ist. (Vgl. @keil_willensfreiheit_2013, S. 2f.) Ausgehend von der Frage ob sich Willensfreiheit mit dem Determinismus vereinbaren lässt, folgen drei Theorien, die die philosophische Diskussion dominieren (Vgl. @keil_willensfreiheit_2013, S. 7):
+Willensfreiheit muss zu aller erst von der Handlungsfreiheit unterschieden werden. Es wird von Handlungsfreiheit gesprochen, wenn ein Akteur frei darin ist eine bestimmte selbstgewählte Handlung zu vollziehen. Er ist frei und ungehindert zu handeln. (Vgl. @jordan_lexikon_2011, S. 305) Von Willensfreiheit wird gesprochen, wenn der Akteur frei darin ist zu wählen und zu entscheiden; es ist nicht damit gemeint, er sei frei zu wollen.
 
-- Kompatibilismus (_Der Wille ist frei, aber determiniert_)
-- Libertarismus (_Der Wille ist frei und nicht determiniert_)
-- Inkompatibilismus (_Der Wille ist unfrei und determiniert_)
+\pagebreak
+
+Es stellt sich somit die Frage, ob er in seinem Wählen frei von Zwängen ist. (Vgl. @keil_willensfreiheit_2013, S. 2f.) Ausgehend von der Frage ob sich Willensfreiheit mit dem Determinismus vereinbaren lässt, folgen drei Theorien, die die philosophische Diskussion dominieren (Vgl. @keil_willensfreiheit_2013, S. 7):
+
+- __Kompatibilismus__
+  \
+  Der Wille ist frei, aber determiniert
+- __Libertarismus__
+  \
+  Der Wille ist frei und nicht determiniert
+- __Inkompatibilismus__
+  \
+  Der Wille ist unfrei und determiniert
 
 ## Biographischer Kontext
 
@@ -53,6 +63,7 @@ Leibniz teilt den Begriff der Notwendigkeit in zwei unterschiedlich starke Kateg
 Leibniz war es wichtig die Güte Gottes als eine logische Notwendigkeit darzustellen, aber Gott ebenfalls die Möglichkeit und Freiheit einzuräumen die beste aller möglichen Welten zu wählen, welche in sich konsistent aubläuft. Naturgesetze könnten zwar anders sein, was aber nicht heißt, dass sie sich verändern können. Eine gewählte Welt hat eigene Naturgesetze, die an und für sich^[Gemeint ist, dass zum einen Gott diese Naturgesetze bestimmt hat. Diese sind durchgängig und lückenlos. Ebenfalls sind diese für uns Menschen spürbar und durchgängig. Jedoch sind die Gründe für Gottes Wahl für uns Menschen nur teilweise nachvollziehbar, aber wir als vernünftige von Gott geschaffene Wesen sind in dieser Hinsicht Gott sehr ähnlich. Wir können vernünftig denken und haben ein Bewusstsein. Wir können die Zukunft antizipieren und Dinge auch in einem anderen Kontext und einem anderen Gegebensein denken. Dennoch bleiben wir als Menschen einer vollständigen Erklärung der Gründe wie Absichten uns selber schuldig. Gott bleibt uns übergestellt, nämlich als Erschaffer unserer Welt.] konsistent und nicht veränderbar sind.
 
 Leibniz schlussfolgert aus der Allwissenheit und Weisheit Gottes, dass dieser nichts Unbegründetes tut. Nichts geschieht grundlos, was nicht gleichbedeutend mit innerer Notwendigkeit ist. Es werden zwei Arten unterschieden:
+
 - __causa__ "bezeichnet den vernünftigen Grund für Gottes Wahl und stellt deshalb ein finales Element dar". (@poser_leibniz_2007, S. 161)
 - __ratio__ "beinhaltet den neuzeitlichen Ursache-Wirkungs-Zusammenhang und garantiert, dass in der Welt alles kausalgesetzlich abläuft." (@poser_leibniz_2007, S. 161)
 
