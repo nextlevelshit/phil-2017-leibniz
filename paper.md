@@ -56,6 +56,8 @@ Leibniz schlussfolgert aus der Allwissenheit und Weisheit Gottes, dass dieser ni
 - __causa__ "bezeichnet den vernünftigen Grund für Gottes Wahl und stellt deshalb ein finales Element dar". (@poser_leibniz_2007, S. 161)
 - __ratio__ "beinhaltet den neuzeitlichen Ursache-Wirkungs-Zusammenhang und garantiert, dass in der Welt alles kausalgesetzlich abläuft." (@poser_leibniz_2007, S. 161)
 
+Das _Prinzip des zureichenden Grundes_, welches sich in den beiden oben genannten Formen zeigt, gewähtleistet sich Gott zum Einen seine Wahlmöglichkeit und sichert zum Anderen das Bestehen der durchgehenden und lückenlosen Naturgesetze. Demnach können Ereignisse in der Welt kausal ablaufen, aber beinhalten keine logische Notwendigkeit. (Vgl. @poser_leibniz_2007, S. 161)
+
 ## Ehrenwörtliche Erklärung
 
 Hiermit erkläre ich, dass ich die vorliegende Arbeit selbstständig verfasst und keine anderen als die von mir angegebenen Hilfsmittel benutzt habe. Die Stellen der Arbeit, die anderen Werken dem Wortlaut oder dem Sinne nach entnommen sind, wurden in jedem Fall unter Angabe der Quellen (einschließlich des World Wide Web (oder Teilen desselben) und anderer elektronischer Text- und Datensammlungen) kenntlich gemacht. Weder ganz noch in Teilen wurde die Arbeit bereits als Prüfungsleistung eingereicht. Mir ist bewusst, dass jedes zuwiderhandeln als Täuschungsversuch zu gelten hat, der die Anerkennung der Hausarbeit als Leitungsnachweis ausschließt und weitere angemessene Sanktionen zur Folge haben kann.
