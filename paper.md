@@ -41,10 +41,18 @@ Mit dem Zusprechen eines freien Willens, galt es zur Leibniz' Zeit drei Probleme
 
 Leibniz teilt den Begriff der Notwendigkeit in zwei unterschiedlich starke Kategorien auf:
 
- - __Logische Notwendigkeit__ besagt "[e]ine Aussage ist falsch, wenn sie einen Widerspruch enthält; dagegen ist die Negation einer falschen Aussage wahr. Deshalb ist jede Aussage wahr, deren Negation einen Widerspruch enthält." (@poser_leibniz_2007, S. 160) Die Rede ist dann von _Vernunftwahrheiten_. Hierzu gehören in erster Linie Aussagen aus der Mathematik, Logik und Geometrie. Hierbei nimmt sich Leibniz' die metaphysische Annahme zur Hilfe, dass Gott vernünftig und nicht willkürlich Prinzipien festlegt. (Vgl. @poser_leibniz_2007, S. 160)
+ - __Logische Notwendigkeit__ besagt "[e]ine Aussage ist falsch, wenn sie einen Widerspruch enthält; dagegen ist die Negation einer falschen Aussage wahr. Deshalb ist jede Aussage wahr, deren Negation einen Widerspruch enthält." (@poser_leibniz_2007, S. 160) Die Rede ist dann von _Vernunftwahrheiten_. Hierzu gehören in erster Linie Aussagen aus der Mathematik, Logik und Geometrie. Hierbei nimmt sich Leibniz metaphysische Grundannahmen^[s. _Metaphysische Grundannahmen zur Güte Gottes_] zur Hilfe, nämlich dass Gott vernünftig und gerade nicht willkürlich Prinzipien festlegt. (Vgl. @poser_leibniz_2007, S. 160)
  - __Hypothetische Notwendigkeit__ bezieht sich demnach auf _Tatsachenwahrheiten_. Tatsachen wie Naturgesetze sind anders denkbar und demnach kontingent und könnten anders sein. Ihre Negation führt zu keinem Widerspruch. (Vgl. @poser_leibniz_2007, S. 161)
 
-###
+ Das impliziert, dass alles, was nicht zu einem logisch Widerspruch führt, als kontingent erachtet wird. Leibniz nennt das dahinterstehende Prinzip das _Prinzip des zureichenden Grundes_. Hierauf wird im kommenden Abschnitt genauer eingegangen.
+
+<!-- ### Spontanität -->
+
+### Metaphysische Grundannahmen zur Güte Gottes
+
+Leibniz war es wichtig die Güte Gottes als eine logische Notwendigkeit darzustellen, aber Gott ebenfalls die Möglichkeit und Freiheit einzuräumen die beste aller möglichen Welten zu wählen, welche in sich konsistent aubläuft. Naturgesetze könnten zwar anders sein, was aber nicht heißt, dass sie sich verändern können. Eine gewählte Welt hat eigene Naturgesetze, die an und für sich konsistent und nicht veränderbar sind.
+
+
 
 ## Ehrenwörtliche Erklärung
 
