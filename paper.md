@@ -69,6 +69,8 @@ Leibniz schlussfolgert aus der Allwissenheit und Weisheit Gottes, dass dieser ni
 
 Das _Prinzip des zureichenden Grundes_, welches sich in den beiden oben genannten Formen zeigt, gewähtleistet sich Gott zum Einen seine Wahlmöglichkeit und sichert zum Anderen das Bestehen der durchgehenden und lückenlosen Naturgesetze. Demnach können Ereignisse in der Welt kausal ablaufen, aber beinhalten keine logische Notwendigkeit. (Vgl. @poser_leibniz_2007, S. 161)
 
+Neben dem oben genannten Prinzip wird das _Prinzip des Besten_ ebenfalls für Leibniz' Argumentation benötigt. Denn Gott wählt für seine Schöpfung stets nur jenes, das in seiner Summe und seinem gesamten Verlauf als die beste aller Möglichkeiten ist. Das heißt, er wählt in seinem Raum der Ideen zwischen verschiedenen möglichen Welten und entscheidet sich für die beste und lässt diese wahr werden. (Vgl. @poser_leibniz_2007, S. 162)
+
 ## Ehrenwörtliche Erklärung
 
 Hiermit erkläre ich, dass ich die vorliegende Arbeit selbstständig verfasst und keine anderen als die von mir angegebenen Hilfsmittel benutzt habe. Die Stellen der Arbeit, die anderen Werken dem Wortlaut oder dem Sinne nach entnommen sind, wurden in jedem Fall unter Angabe der Quellen (einschließlich des World Wide Web (oder Teilen desselben) und anderer elektronischer Text- und Datensammlungen) kenntlich gemacht. Weder ganz noch in Teilen wurde die Arbeit bereits als Prüfungsleistung eingereicht. Mir ist bewusst, dass jedes zuwiderhandeln als Täuschungsversuch zu gelten hat, der die Anerkennung der Hausarbeit als Leitungsnachweis ausschließt und weitere angemessene Sanktionen zur Folge haben kann.
