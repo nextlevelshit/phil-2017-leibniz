@@ -77,6 +77,7 @@ Neben dem oben genannten Prinzip wird das _Prinzip des Besten_ ebenfalls für Le
 > "Mehr noch als Tiere mit Gedächtnis, die deshalb aus früheren Erfahrungen im Reich der Ursachen zu Naturgesetzen und im Reich der Zwecke zu moralischen Prinzipien verallgemeinern und damit eine Vorstellung von der Zukunft gewinnen, die er gegen das zu erwartende Resultat der momentanen Neigung abzuwägen vermag: Der Instinkt zwingt uns nicht zu handeln, sondern macht uns geneigt. Die Neigung jedoch verschwindet, wenn wir durch klare und deutliche Vorstellungen der jeweiligen künftigen Folgen erkennen, dass das Resultat der Neigung nicht mit dem Prinzip des Besten vereinbar ist."
 (@poser_leibniz_2007, S. 162)\
 
+Auch wenn die Vernunft und der Instinkt auf den ersten Blick zwei entgegen-gesetzte Ziele verfolgen und grundsätzlich unterschiedliche Grundeinstellungen haben, so geht Leibniz davon aus, dass beiderlei Erkenntnisse gewinnen können, jedoch die Erkenntnis des Instinkts verworrener ist. Somit ist eine innewohnende Aufgabe der Vernunft die Neigungen und den Instinkt so zu lenken, so dass sie nicht unverzüglich zur Handlung führen. (Vgl. @poser_leibniz_2007, S. 162)
 
 
 ## Ehrenwörtliche Erklärung
