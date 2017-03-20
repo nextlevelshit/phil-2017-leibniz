@@ -54,7 +54,7 @@ Leibniz teilt den Begriff der Notwendigkeit in zwei unterschiedlich starke Kateg
  - __Logische Notwendigkeit__ besagt "[e]ine Aussage ist falsch, wenn sie einen Widerspruch enthält; dagegen ist die Negation einer falschen Aussage wahr. Deshalb ist jede Aussage wahr, deren Negation einen Widerspruch enthält." (@poser_leibniz_2007, S. 160) Die Rede ist dann von _Vernunftwahrheiten_. Hierzu gehören in erster Linie Aussagen aus der Mathematik, Logik und Geometrie. Hierbei nimmt sich Leibniz metaphysische Grundannahmen^[siehe _Metaphysische Grundannahmen zur Güte Gottes_] zur Hilfe, nämlich dass Gott vernünftig und gerade nicht willkürlich Prinzipien festlegt. (Vgl. @poser_leibniz_2007, S. 160)
  - __Hypothetische Notwendigkeit__ bezieht sich demnach auf _Tatsachenwahrheiten_. Tatsachen wie Naturgesetze sind anders vorstellbar und demnach kontingent und könnten anders sein. Ihre Negation führt zu keinem Widerspruch. (Vgl. @poser_leibniz_2007, S. 161)
 
- Das impliziert, dass alles, was nicht zu einem logisch Widerspruch führt, als kontingent erachtet wird. Leibniz nennt das dahinterstehende Prinzip das _Prinzip des zureichenden Grundes_. Hierauf wird im kommenden Abschnitt genauer eingegangen.
+ Das impliziert, dass alles, was nicht zu einem logischen Widerspruch führt, als kontingent erachtet wird. Auch wenn die Dinge nicht aus innerer Notwendigkeit geschehen, bedeutet es nicht zwangsläufig, dass sie grundlos geschehen. Leibniz nennt das dahinterstehende Prinzip das _Prinzip des zureichenden Grundes_. Hierauf wird im kommenden Abschnitt genauer eingegangen.
 
 <!-- ### Spontanität -->
 
