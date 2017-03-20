@@ -43,7 +43,7 @@ Leibniz kommt mit seinen Meditationen zu dem Schluss, dem Menschen einen freien 
 
 Willensfreiheit schließt somit die Einsicht, sprich die vernünftige Entscheidung, Kontingenz (Wahlmöglichkeit, sprich Abwesenheit von logischer wie physischer Notwendigkeit), Spontanität
 
-### Probleme der Willensfreiheit
+## Probleme der Willensfreiheit
 
 Mit dem Zusprechen eines freien Willens, galt es zur Leibniz' Zeit drei Probleme zu lösen, welche er innerhalb verschiedener Werke ^[Zumindest insoweit es uns aus heutiger Sicht zu begutachten und bewerten erlaubt ist.] aufteilte. Die beiden Hauptwerke waren hierbei _Die Theodizee von der Güte Gottes, der Freiheit des Menschen und dem Ursprung des Übels_ und _Neue Abhandlungen über den menschlichen Verstand_. Und die zu lösenden wurden bereits in der Einleitung vorgestellt. Die beiden ersten Probleme löste er innerhalb der Theodizee und das Problem des animalischen Instinktes in _Neue Abhandlungen über den menschlichen Verstand_.
 
@@ -67,9 +67,17 @@ Leibniz schlussfolgert aus der Allwissenheit und Weisheit Gottes, dass dieser ni
 - __causa__ "bezeichnet den vernünftigen Grund für Gottes Wahl und stellt deshalb ein finales Element dar". (@poser_leibniz_2007, S. 161)
 - __ratio__ "beinhaltet den neuzeitlichen Ursache-Wirkungs-Zusammenhang und garantiert, dass in der Welt alles kausalgesetzlich abläuft." (@poser_leibniz_2007, S. 161)
 
-Das _Prinzip des zureichenden Grundes_, welches sich in den beiden oben genannten Formen zeigt, gewähtleistet sich Gott zum Einen seine Wahlmöglichkeit und sichert zum Anderen das Bestehen der durchgehenden und lückenlosen Naturgesetze. Demnach können Ereignisse in der Welt kausal ablaufen, aber beinhalten keine logische Notwendigkeit. (Vgl. @poser_leibniz_2007, S. 161)
+Das _Prinzip des zureichenden Grundes_, welches sich in den beiden oben genannten Formen zeigt, gewährleistet sich Gott zum Einen seine Wahlmöglichkeit und sichert zum Anderen das Bestehen der durchgehenden und lückenlosen Naturgesetze. Demnach können Ereignisse in der Welt kausal ablaufen, aber beinhalten keine logische Notwendigkeit. (Vgl. @poser_leibniz_2007, S. 161)
 
 Neben dem oben genannten Prinzip wird das _Prinzip des Besten_ ebenfalls für Leibniz' Argumentation benötigt. Denn Gott wählt für seine Schöpfung stets nur jenes, das in seiner Summe und seinem gesamten Verlauf als die beste aller Möglichkeiten ist. Das heißt, er wählt in seinem Raum der Ideen zwischen verschiedenen möglichen Welten und entscheidet sich für die beste und lässt diese wahr werden. (Vgl. @poser_leibniz_2007, S. 162)
+
+### Freiheit des Menschen
+
+### Menschlicher Instinkt gefährdet nicht die Willensfreiheit
+> "Mehr noch als Tiere mit Gedächtnis, die deshalb aus früheren Erfahrungen im Reich der Ursachen zu Naturgesetzen und im Reich der Zwecke zu moralischen Prinzipien verallgemeinern und damit eine Vorstellung von der Zukunft gewinnen, die er gegen das zu erwartende Resultat der momentanen Neigung abzuwägen vermag: Der Instinkt zwingt uns nicht zu handeln, sondern macht uns geneigt. Die Neigung jedoch verschwindet, wenn wir durch klare und deutliche Vorstellungen der jeweiligen künftigen Folgen erkennen, dass das Resultat der Neigung nicht mit dem Prinzip des Besten vereinbar ist."
+(@poser_leibniz_2007, S. 162)\
+
+
 
 ## Ehrenwörtliche Erklärung
 
