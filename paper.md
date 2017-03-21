@@ -51,7 +51,7 @@ Mit dem Zusprechen eines freien Willens, galt es zur Leibniz' Zeit drei Probleme
 
 Leibniz teilt den Begriff der Notwendigkeit in zwei unterschiedlich starke Kategorien auf:
 
- - __Logische Notwendigkeit__ besagt "[e]ine Aussage ist falsch, wenn sie einen Widerspruch enthält; dagegen ist die Negation einer falschen Aussage wahr. Deshalb ist jede Aussage wahr, deren Negation einen Widerspruch enthält." (@poser_leibniz_2007, S. 160) Die Rede ist dann von _Vernunftwahrheiten_. Hierzu gehören in erster Linie Aussagen aus der Mathematik, Logik und Geometrie. Hierbei nimmt sich Leibniz metaphysische Grundannahmen^[siehe _Metaphysische Grundannahmen zur Güte Gottes_] zur Hilfe, nämlich dass Gott vernünftig und gerade nicht willkürlich Prinzipien festlegt. (Vgl. @poser_leibniz_2007, S. 160)
+ - __Logische Notwendigkeit__ besagt "[e]ine Aussage ist falsch, wenn sie einen Widerspruch enthält; dagegen ist die Negation einer falschen Aussage wahr. Deshalb ist jede Aussage wahr, deren Negation einen Widerspruch enthält." (@poser_leibniz_2007, S. 160) Die Rede ist dann von _Vernunftwahrheiten_. Hierzu gehören in erster Linie Aussagen aus der Mathematik, Logik und Geometrie. Hierbei nimmt sich Leibniz metaphysische Grundannahmen^[Siehe _Metaphysische Grundannahmen zur Güte Gottes_.] zur Hilfe, nämlich dass Gott vernünftig und gerade nicht willkürlich Prinzipien festlegt. (Vgl. @poser_leibniz_2007, S. 160)
  - __Hypothetische Notwendigkeit__ bezieht sich demnach auf _Tatsachenwahrheiten_. Tatsachen wie Naturgesetze sind anders vorstellbar und demnach kontingent und könnten anders sein. Ihre Negation führt zu keinem Widerspruch. (Vgl. @poser_leibniz_2007, S. 161)
 
  Das impliziert, dass alles, was nicht zu einem logischen Widerspruch führt, als kontingent erachtet wird. Auch wenn die Dinge nicht aus innerer Notwendigkeit geschehen, bedeutet es nicht zwangsläufig, dass sie grundlos geschehen. Leibniz nennt das dahinterstehende Prinzip das _Prinzip des zureichenden Grundes_. Hierauf wird im kommenden Abschnitt genauer eingegangen.
@@ -71,13 +71,16 @@ Das _Prinzip des zureichenden Grundes_, welches sich in den beiden oben genannte
 
 Neben dem oben genannten Prinzip wird das _Prinzip des Besten_ ebenfalls für Leibniz' Argumentation benötigt. Denn Gott wählt für seine Schöpfung stets nur jenes, das in seiner Summe und seinem gesamten Verlauf als die beste aller Möglichkeiten ist. Das heißt, er wählt in seinem Raum der Ideen zwischen verschiedenen möglichen Welten und entscheidet sich für die beste und lässt diese wahr werden. (Vgl. @poser_leibniz_2007, S. 162)
 
-### Freiheit des Menschen
+### Die Freiheit des Menschen steht nicht im Konflikt mit Gottes Freiheit
 
-### Menschlicher Instinkt gefährdet nicht die Willensfreiheit
+Wie bereits erwähnt, richtet sich nach Leibniz der Wille stets auf eine Handlung und ist niemals ungerichtet.^[Siehe oben _Einordnung Leibniz' in der philosophischen Debatte um die Willensfreiheit_.] Ebenfalls muss eine willentliche Entscheidung aus einer Einsicht, somit gemeinsam mit der Vernunft, entstehen. Nun steht dieser Freiheitsbegriff des Menschen in Konflikt mit der Freiheit Gottes, denn wenn Gott frei darin ist eine bestimmte Welt zu erschaffen, in der alles vorherbestimmt ist, so bleibt letztlich kein Raum mehr für die Freiheit des Menschen. (Vgl. @poser_leibniz_2007, S. 163)
+
+
+### Der menschliche Instinkt gefährdet nicht die Willensfreiheit
 > "Mehr noch als Tiere mit Gedächtnis, die deshalb aus früheren Erfahrungen im Reich der Ursachen zu Naturgesetzen und im Reich der Zwecke zu moralischen Prinzipien verallgemeinern und damit eine Vorstellung von der Zukunft gewinnen, die er gegen das zu erwartende Resultat der momentanen Neigung abzuwägen vermag: Der Instinkt zwingt uns nicht zu handeln, sondern macht uns geneigt. Die Neigung jedoch verschwindet, wenn wir durch klare und deutliche Vorstellungen der jeweiligen künftigen Folgen erkennen, dass das Resultat der Neigung nicht mit dem Prinzip des Besten vereinbar ist."
 (@poser_leibniz_2007, S. 162)\
 
-Auch wenn die Vernunft und der Instinkt auf den ersten Blick zwei entgegen-gesetzte Ziele verfolgen und grundsätzlich unterschiedliche Grundeinstellungen haben, so geht Leibniz davon aus, dass beiderlei Erkenntnisse gewinnen können, jedoch die Erkenntnis des Instinkts verworrener ist. Somit ist eine innewohnende Aufgabe der Vernunft die Neigungen und den Instinkt so zu lenken, so dass sie nicht unverzüglich zur Handlung führen. (Vgl. @poser_leibniz_2007, S. 162)
+Auch wenn die Vernunft und der Instinkt auf den ersten Blick zwei entgegen-gesetzte Ziele verfolgen und grundsätzlich unterschiedliche Grundeinstellungen haben, so geht Leibniz davon aus, dass beiderlei Erkenntnisse gewinnen können, jedoch die Erkenntnis des Instinkts verworrener ist als die der Vernunft. Somit ist eine der Vernunft innewohnende Aufgabe die Neigungen und den Instinkt so zu lenken, dass sie nicht unverzüglich zur Handlung führen. (Vgl. @poser_leibniz_2007, S. 162)
 
 
 ## Ehrenwörtliche Erklärung
