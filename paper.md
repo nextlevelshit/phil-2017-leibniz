@@ -78,13 +78,11 @@ Wie bereits erwähnt, richtet sich nach Leibniz der Wille stets auf eine Handlun
 Leibniz' Argumentation läuft darauf hinaus, dass Gott zwar den Lauf der Dinge _vorhersieht_, aber nicht vorherbestimmt.
 
 > "Da der göttliche Beschluss allein in dem Entschluss besteht, nach einem Vergleich aller möglichen Welten die beste zu wählen und ihr mitsamt allen Inhalten Existenz zu geben durch jenes allmächtige _Fiat_, so ist klar, dass dieser Beschluss nichts an der Beschaffenheit der Dinge ändert und dass er sie in dem Zustande belässt, in dem sie sich schon als reine Möglichkeiten befanden [...]. Das Kontingente und Freie verbleibt demnach in seinem Zustande sowohl angesichts der göttlichen Beschlüsse als auch angesichts der Vorsehung."
-(@leibniz_theodizee_1996 ^[Zitat entnommen aus @poser_leibniz_2007, S. 164f])\
+(@leibniz_theodizee_1996 ^[Zitat entnommen aus @poser_leibniz_2007, S. 164f].)\
 
 Das bedeutet, dass Gott bereits im _Raum der Ideen_, sprich seinem Spielraum, in dem er zwischen den möglichen Welten abwägt, den Menschen als Ganzes inklusive seinem freien Willen zu entscheiden mit-denkt. Der Mensch beinhaltet bereits in seinem Begriff alle seine Möglichkeiten und Freiheit.
 
-> "Frieheit beruht auf der autonomen vernünftigen Ausrichtung auf das Beste." (@poser_leibniz_2007, S. 163)\
-
-Unsere Entscheidungen als Menschen sind nur dann frei, wenn diese auch der Vernunft gemäß getroffen werden. Instinktive Handlungen oder nach der Neigung ausgerichtet sind in dem Sinne nicht freie Entscheidungen.
+"Frieheit beruht auf der autonomen vernünftigen Ausrichtung auf das Beste." (@poser_leibniz_2007, S. 163) Unsere Entscheidungen als Menschen sind nur dann frei, wenn diese auch der Vernunft gemäß getroffen werden. Instinktive Handlungen oder nach der Neigung ausgerichtet sind in dem Sinne nicht freie Entscheidungen.
 
 > "Die Leibniz'sche Lösung stützt sich auf die Konstruktion der möglichen Welten im Reich der Ideen. Eine mögliche Welt besteht aus den vollständingen Lebensläufen aller ihr zugehörigen möglichen Individuen. [...] Diese komplexen Begriffe enthalten damit nicht nur jedes Einzelschicksal, sondern sie »spiegeln« wegen der Berücksichtigung aller anderen Individuen auch diese anderen und damit das ganze Universum." (@poser_leibniz_2007, S. 163)\
 
@@ -100,6 +98,11 @@ Für ein vollständiges Verständnis der Hintergrunde und der dahinterstehenden 
 
 Auch wenn die Vernunft und der Instinkt auf den ersten Blick zwei entgegen-gesetzte Ziele verfolgen und grundsätzlich unterschiedliche Grundeinstellungen haben, so geht Leibniz davon aus, dass beiderlei Erkenntnisse gewinnen können, jedoch die Erkenntnis des Instinkts verworrener ist als die der Vernunft. Somit ist eine der Vernunft innewohnende Aufgabe die Neigungen und den Instinkt so zu lenken, dass sie nicht unverzüglich zur Handlung führen. (Vgl. @poser_leibniz_2007, S. 162)
 
+## Konklusion
+
+Leibniz gelingt es in seinen Abhandlungen dem Menschen einen freien Willen zuzuschreiben, jedoch nicht ohne zahlreicher metaphysischer Grundannahmen. Gott ist allwissend und gütig. Er sieht zwar den Lauf der Dinge vorher, bestimmt ihn aber nicht. Im sog. _Reich der Ideen_ wählt Gott mit seiner Güte die beste aller möglichen Welten. Bereits bei der Wahl ist Gott sich darüber im Klaren, dass der Mensch auch sich fehlerhaft verhalten kann. Da dem Menschen zum einen alle Möglichkeiten gegeben sind und er eine gott-ähnliche Vernunft hat, bekommt der Mensch einen eigenen Möglichkeitsraum. Sein Schicksal ist nicht komplett von den Schicksalen der übrigen Individuen entkoppelt. Vielmehr _spiegeln_ sich seiner Seele die übrigen Schicksale und der Lauf des Universums.
+
+Diese zahlreichen Grundannahmen sind notwendig, denn Begriffe wie Moral, Ethik, Verantwortung würden jegliche Bedeutung verlieren, wenn der Mensch nicht in der Lage wäre, selber zu entscheiden. Nach Leibniz ist er frei dieses zu tun, solange er sich seiner Vernunft und Einsicht bedient. Selbst die animalischen Instinkte stehen der freien Willensbildung nicht im Wege, denn Neigungen sind für-sich nicht handlungswirksam; sie machen lediglich geneigt. Die Handlungen führen wir frei und eigenständig durch.
 
 ## Ehrenwörtliche Erklärung
 
